@@ -1,64 +1,64 @@
-D001:
+- id:     D001
   titulo: Mark Boulton
-  texto:  
+  texto:  A escrever (?)
   bits:   4
-D002:
+- id:     D002
   titulo: Eric Meyer
-  texto:  
+  texto:  A escrever (?)
   bits:   2
-D003:
+- id:     D003
   titulo: Chris Michel
-  texto:  
+  texto:  A escrever (?)
   bits:   3
-D004:
+- id:     D004
   titulo: Mark Otto
-  texto:  
+  texto:  A escrever (?)
   bits:   4
-D005:
+- id:     D005
   titulo: Brad Frost
-  texto:  
+  texto:  A escrever (?)
   bits:   2
-D006:
+- id:     D006
   titulo: Luke Wroblewski
-  texto:  
+  texto:  A escrever (?)
   bits:   2
-D007:
+- id:     D007
   titulo: Rachel Nabors
-  texto:  
+  texto:  A escrever (?)
   bits:   1
-D008:
+- id:     D008
   titulo: Jason Santa Maria
-  texto:  
+  texto:  A escrever (?)
   bits:   2
-D009:
+- id:     D009
   titulo: Ethan Marcotte
-  texto:  
+  texto:  A escrever (?)
   bits:   3
-D010:
+- id:     D010
   titulo: Mason Wendell
-  texto:  
+  texto:  A escrever (?)
   bits:   1
-D011:
+- id:     D011
   titulo: Divya Manian
-  texto:  
+  texto:  A escrever (?)
   bits:   3
-D012:
+- id:     D012
   titulo: Nicolas Gallagher
-  texto:  
+  texto:  A escrever (?)
   bits:   1
-D013:
+- id:     D013
   titulo: Jen Mylo
-  texto:  
+  texto:  A escrever (?)
   bits:   2
-D014:
+- id:     D014
   titulo: Nica Lorber
-  texto:  
+  texto:  A escrever (?)
   bits:   1
-D015:
+- id:     D015
   titulo: Jina Bolton
-  texto:  
+  texto:  A escrever (?)
   bits:   3
-D016:
+- id:     D016
   titulo: Scott Kellum
-  texto:  
+  texto:  A escrever (?)
   bits:   1

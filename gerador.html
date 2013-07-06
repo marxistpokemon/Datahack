@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gerador de Cartas</title>
+        <meta name="description" content="">
+        <script src="js/d3.v3.js" charset="utf-8"></script>
+        <script src="js/yaml.js" charset="utf-8"></script>
+        <script src="js/gerador_de_cartas.js" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="css/estilos.css">
+    </head>
+    <body>
+        <h1>Datahack</h1>
+
+        <script type="text/javascript">
+            carregaCartas('acoes.yml', "Ações", "acao");
+            carregaCartas('bugs.yml', "Bugs", "bigs");
+            carregaCartas('desenvolvedores.yml', "Desenvolvedores", "devs");
+            carregaCartas('designers.yml', "Designers", "designers");
+            carregaCartas('equipe.yml', "Equipe", "equipe");
+            carregaCartas('eventos.yml', "Eventos", "eventos");
+            carregaCartas('hardware.yml', "Hardware", "hardware");
+            carregaCartas('projetos.yml', "Projetos", "projetos");
+            carregaCartas('software.yml', "Software", "software");
+        </script>
+    </body>
+</html>

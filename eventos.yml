@@ -1,76 +1,92 @@
-E001:
+- id:     E001
   titulo: Transparência HackDay
-  texto:  Libere Bytes começando com 0000, 0101, 1000 ou 1010
+  texto: >
+          Libere Bytes começando com 0000, 0101, 1000 ou 1010
   premio: 2k
-E002:
+- id:     E002
   titulo: Hackathon de Dados Educacionais
-  texto:  Libere 1 Byte começando com 0000
+  texto: >
+          Libere 1 Byte começando com 0000
   premio: 2k
-E003:
+- id:     E003
   titulo: Hackathon da Câmara Municipal de São Paulo
-  texto:  Libere 1 Byte começando com 0101
+  texto: >
+          Libere 1 Byte começando com 0101
   premio: 2k
-E004:
+- id:     E004
   titulo: International Space Apps Challenge
-  texto:  Libere 1 Byte começando com 1000
+  texto: >
+          Libere 1 Byte começando com 1000
   premio: 4k
-E005:
+- id:     E005
   titulo: Hackathon do Código Florestal
-  texto:  Libere 1 Byte começando com 1010
+  texto: >
+          Libere 1 Byte começando com 1010
   premio: 2k
-E006:
+- id:     E006
   titulo: HackDay Transporte Público
-  texto:  Totalize X Bytes começando com 0101
+  texto: >
+          Totalize X Bytes começando com 0101
   premio: Xk
-E007:
+- id:     E007
   titulo: rodAda Hacker
-  texto:  Libere 1 Byte com uma programadora na equipe
+  texto: >
+          Libere 1 Byte com uma programadora na equipe
   premio: 1k
-E008:
+- id:     E008
   titulo: BrazilJS
-  texto:  Libere 1 Byte com um Software Javascript na equipe.
+  texto: >
+          Libere 1 Byte com um Software Javascript na equipe.
           Softwares e Desenvolvedores Javascript custam 1 menos para
           entrar em jogo.
   premio: 1k
-E009:
+- id:     E009
   titulo: Python Brasil
-  texto:  Libere 1 Byte com um Software Python na equipe.
+  texto: >
+          Libere 1 Byte com um Software Python na equipe.
           Softwares e Desenvolvedores Python custam 1 menos para
           entrar em jogo.
   premio: 1k
-E010:
+- id:     E010
   titulo: PHP Conference Brasil
-  texto:  Libere 1 Byte com um Software PHP na equipe.
+  texto: >
+          Libere 1 Byte com um Software PHP na equipe.
           Softwares e Desenvolvedores PHP custam 1 menos para
           entrar em jogo.
   premio: 1k
-E011:
+- id:     E011
   titulo: RubyConf Brasil
-  texto:  Libere 1 Byte com um Software Ruby na equipe.
+  texto: >
+          Libere 1 Byte com um Software Ruby na equipe.
           Softwares e Desenvolvedores Ruby custam 1 menos para
           entrar em jogo.
   premio: 1k
-E012:
+- id:     E012
   titulo: DrupalCamp
-  texto:  Libere 1 byte com Drupal na equipe.
+  texto: >
+          Libere 1 byte com Drupal na equipe.
           O Desenvolvedor Iniciante pode operar PHP com efeito máximo.
   premio: 2k
-E013:
+- id:     E013
   titulo: RailsRubmle
-  texto:  Libere 1 Byte com Rails na equipe.
+  texto: >
+          Libere 1 Byte com Rails na equipe.
           O Desenvolvedor Iniciante pode operar Ruby com efeito máximo.
   premio: 2k
-E014:
+- id:     E014
   titulo: Welcome to the Django
-  texto:  Libere 1 Byte com Django na equipe.
+  texto: >
+          Libere 1 Byte com Django na equipe.
           O Desenvolvedor Iniciante pode operar Python com efeito máximo.
   premio: 2k
-E015:
+- id:     E015
   titulo: Front in Rio
-  texto:  Libere 1 byte com jQery na equipe.
+  texto: >
+          Libere 1 byte com jQery na equipe.
           O Desenvolvedor Iniciante pode operar Javascript com efeito máximo.
   premio: 2k
-E016:
+- id:     E016
   titulo: Consegi
-  texto:  Libere 1 byte de prefixo 1111.
+  texto: >
+          Libere 1 byte de prefixo 1111.
   premio: 2k
