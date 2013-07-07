@@ -50,3 +50,16 @@ function carregaCartas(url, titulo, classe) {
 
   });
 };
+
+function carregaRegras(url){
+
+  var texto;
+
+  d3.text(url, function(e, t){
+
+    var regras = d3.select("#regras");
+
+    regras.attr("class", "container regras");
+    regras.html(markdown.toHTML(t));
+  });
+}
